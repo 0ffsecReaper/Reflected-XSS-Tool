@@ -79,8 +79,4 @@ This submission is prepared for the assignment located at:
 ## Time spent
 Approximately 8 hours (design, implementation, debugging, and testing).
 
-## Notes for the grader / recruiter
-- This scanner demonstrates understanding of reflected XSS contexts and evidence-gathering.
-- Use the included `report_sample.html` as a demonstration of expected output.
-- The original assignment brief is attached as a local file for reference:
-  `/mnt/data/Security assignment.pdf`
+
